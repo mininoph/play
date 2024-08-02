@@ -13,9 +13,9 @@
 }
 
 :root{
-    --whitetype: #ff7480;
-    --blacktype: #9f6ea3;
-    --lightblack: #515C6F;
+    --whitetype: #b0f9ff;
+    --blacktype: #213843;
+    --lightblack: #65a5ad;
     --white: #ffffff;
     --darkwhite: #cecaca;
     --pinkshadow: #ffcbdd;
@@ -35,11 +35,11 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: linear-gradient(45deg, rgb(218, 15, 18), rgb(203, 203, 216));
+    background: linear-gradient(45deg, rgb(187, 239, 255), rgb(241, 241, 255));
 }
 
 .wrapper{
-    width: 600px;
+    width: 6px;
     padding: 25px 30px;
     overflow: hidden;
     position: relative;
