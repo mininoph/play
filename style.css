@@ -30,7 +30,7 @@ body{
 }
 
 .player {
-    width: 70%;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -39,7 +39,7 @@ body{
 }
 
 .wrapper{
-    width: 450px;
+    width: 400px;
     padding: 25px 30px;
     overflow: hidden;
     position: relative;
@@ -87,7 +87,7 @@ body{
 
 .img-area{
     width: 60%;
-    height: 235px;
+    height: 200px;
     margin: auto;
     overflow: hidden;
     margin-top: 15px;
@@ -123,10 +123,10 @@ body{
 }
 
 .progress-area{
-    height: 6px;
+    height: 8px;
     width: 100%;
     border-radius: 50px;
-    background: #f0f0f0;
+    background: #d7d7d7;
     cursor: pointer;
 }
 
